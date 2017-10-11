@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Notas</string>
+    <string name="programa" translatable="false">Ingeniería de Sistemas</string>
+    <string name="udenar" translatable="false">Universidad de Nariño</string>
+    <string name="registro" translatable="false">Calculo de Notas</string>
+    <string name="matematicas" translatable="false">Matematicas</string>
+    <string name="nota1" translatable="false">Nota 1:</string>
+    <string name="nota2" translatable="false">Nota 2:</string>
+    <string name="nota3" translatable="false">Nota 3:</string>
+    <string name="def" translatable="false">Def :</string>
+    <string name="programaci" translatable="false">Programación</string>
+    <string name="ingles" translatable="false">Ingles</string>
+    <string name="vacios" translatable="false">Campos Vacios</string>
+    <string name="rango_alto" translatable="false">El valor máximo es 5</string>
+
+</resources>
